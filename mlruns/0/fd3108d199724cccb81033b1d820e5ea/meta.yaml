@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/100-days-of-dl/Krish_Naik/FSDS_Ineuron_Course/projects/End-to-End-Brain-Tumor-Classification-using-MLflow-DVC/mlruns/0/fd3108d199724cccb81033b1d820e5ea/artifacts
+end_time: 1701415751068
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd3108d199724cccb81033b1d820e5ea
+run_name: able-calf-960
+run_uuid: fd3108d199724cccb81033b1d820e5ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701415712847
+status: 3
+tags: []
+user_id: Harshal

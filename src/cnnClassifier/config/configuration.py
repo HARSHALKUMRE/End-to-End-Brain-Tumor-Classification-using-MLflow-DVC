@@ -1,12 +1,11 @@
-import os
-from src.cnnClassifier.constants import *
-from src.cnnClassifier.utils.common import read_yaml, create_directories
-from src.cnnClassifier.entity.config_entity import (DataIngestionConfig, 
+from cnnClassifier.constants import *
+from cnnClassifier.utils.common import read_yaml, create_directories
+from cnnClassifier.entity.config_entity import (DataIngestionConfig, 
                                                     PrepareBaseModelConfig,
                                                     PrepareCallbacksConfig,
                                                     TrainingConfig,
                                                     EvaluationConfig)
-
+import os
 
 class ConfigurationManager:
     def __init__(
